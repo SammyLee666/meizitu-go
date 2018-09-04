@@ -1,1 +1,0 @@
-# meizitu-go
